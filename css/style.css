@@ -1,0 +1,73 @@
+html, body{
+    margin: 0px;
+    background-color: black;
+}
+.bg2, .bg1 {
+    height: 900px;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+}
+
+.bg1{
+    background-image: url(./imagens/fundo-ofc.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    
+}
+
+.perso{
+    text-align: center;
+}
+#obi{
+    text-align: center ;
+    color: black;
+    font-family: 'Orbitron', sans-serif;;
+}
+
+
+li{
+    color: snow;
+    font-size: large;
+}
+.bg2{
+    background-image: url(./imagens/estrela_da_morte.jpeg);
+}
+#vaderI{
+    width: 20%;
+}
+#vader{
+    text-align: center ;
+    color: red;
+    font-family: 'Orbitron', sans-serif;;
+}
+#corleg{
+    color: red;
+}
+#corle{
+    color: red;
+}
+.bg3{
+    background-image: url(./imagens/nationalgeographic2808032.jpeg);
+}
+.fim{
+    color: green;
+}
+#r2{
+    width: 1%;
+    position: relative;
+    left: 200px;
+}
+#mi{
+    width: 50%;
+    position: relative;
+    right: 0px;
+}
+.gap{
+    height: 20px;
+}
+
+
+ 
